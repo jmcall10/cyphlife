@@ -5,7 +5,6 @@ import time
 
 import requests
 
-
 def use_requests(api_url):
 
     response = requests.get(api_url)
